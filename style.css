@@ -10,8 +10,8 @@
     font-synthesis-weight: 900;
     font-size: 18px;
 }
-.btn-rodolfmango {
-    background-color: black;
+.btn-jovil {
+    background-color:white;
     border: 2px solid color white;
     border-radius: 60px;
     transition: all ease-in 0.5s;
@@ -19,12 +19,12 @@
 .itoy {
     width: 5%;
 }
-.btn-rodolfmango:hover {
+.btn-jovil:hover {
     color: blue;
     border: 2px solid red;
 }
 .banner {
-    background-image:linear-gradient(90deg, rgba(2, 0, 36, 0.479) 0%, rgba(103, 6, 42, 0.233) 24%),   url(qqqq.jpg);
+    background-image:linear-gradient(90deg, rgba(2, 0, 36, 0.068) 0%, rgba(103, 6, 42, 0.041) 24%),   url(jjj.jpg);
     height:  90vh;
     background-size: cover;
 }
