@@ -105,3 +105,20 @@ body {
 .card:hover, .card-text{
     color: #b19112;
 }
+#reviews {
+    background: lightskyblue;
+}
+
+.testimonial {
+    border: 2px solid#FFF;
+    padding: 20px;
+    border-radius:20px;
+    margin-top:20px;
+}
+
+.testimonial img {
+    width:75px;
+    height:75px;
+    border-radius:50%;
+    border: 2px solid #FFF;
+}
